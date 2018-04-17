@@ -13,14 +13,14 @@ Course Description: A basic subject on matrix theory and linear algebra.
 |#Session|Topic|
 |---|----------------------------------|
 |	1	|	[The geometry of linear equations](https://github.com/raoanonymous/LinearAlgebra/blob/master/The%20geometry%20of%20linear%20equations.pdf)	|
-|	2	|	Elimination with matrices	|
-|	3	|	Matrix operations and inverses	|
-|	4	|	LU and LDU factorization	|
-|	5	|	Transposes and permutations	|
-|	6	|	Vector spaces and subspaces	|
-|	7	|	The nullspace: Solving Ax = 0	|
-|	8	|	Rectangular PA = LU and Ax = b	|
-|	9	|	Row reduced echelon form	|
+|	2	|	[Elimination with matrices](https://github.com/raoanonymous/LinearAlgebra/blob/master/Elimination%20with%20matrices.pdf)	|
+|	3	|	[Matrix operations and inverses](https://github.com/raoanonymous/LinearAlgebra/blob/master/Matrix%20operations%20and%20inverses.pdf)	|
+|	4	|	[LU and LDU factorization](https://github.com/raoanonymous/LinearAlgebra/blob/master/A%20%3D%20LU.pdf)	|
+|	5	|	[Transposes and permutations](https://github.com/raoanonymous/LinearAlgebra/blob/master/Permutations%20and%20Transposes.pdf)|
+|	6	|	[Vector spaces and subspaces](https://github.com/raoanonymous/LinearAlgebra/blob/master/Elimination%20with%20matrices.pdf)|
+|	7	|	[The nullspace: Solving Ax = 0](https://github.com/raoanonymous/LinearAlgebra/blob/master/Column%20Space%20and%20Null%20Space.pdf)	|
+|	8	|	[Rectangular PA = LU and Ax = b](https://github.com/raoanonymous/LinearAlgebra/blob/master/Solving%20Ax%20%3D%200%20pivot%20variables%2C%20special%20solutions.pdf)	|
+|	9	|	[Row reduced echelon form](https://github.com/raoanonymous/LinearAlgebra/blob/master/Complete%20Solution%20of%20AX%3Db.pdf)|
 |	10	|	Basis and dimension	|
 |	11	|	The four fundamental subspaces	|
 |	12	|	Exam 1: Chapters 1 to 3.4	|
