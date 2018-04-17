@@ -10,8 +10,9 @@ Course Description: A basic subject on matrix theory and linear algebra.
 
 </p>
 
-|	1	|	The geometry of linear equations	|LinearAlgebra/The geometry of linear equations|
-|---|----------------------------------|---|
+|#Session|Topic|
+|---|----------------------------------|
+|	1	|	[The geometry of linear equations](https://github.com/raoanonymous/LinearAlgebra/blob/master/The%20geometry%20of%20linear%20equations.pdf)	|
 |	2	|	Elimination with matrices	|
 |	3	|	Matrix operations and inverses	|
 |	4	|	LU and LDU factorization	|
